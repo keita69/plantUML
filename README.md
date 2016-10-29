@@ -11,7 +11,7 @@
 1. ヘッダ、フッダ、メニュー、タブ、ボディ構成  
    画面を検討するときに使用するワイヤフレーム。  
    ヘッダ、フッダ、メニュー、タブ、ボディ構成のサンプルです。  
-   ![wireframe](http://hoge.png "wireframe")
+   ![wireframe10010](https://github.com/keita69/plantUML/blob/master/img/wireframe-hfmtb.png)
 ## ユースケース図
 ## アクティビティ図
 ## ステートチャート図
