@@ -5,7 +5,7 @@
 * 010 ヘッダ、フッダ、メニュー、タブ、ボディ構成  
     * 画面を検討するときに使用するワイヤフレーム。  
    ヘッダ、フッダ、メニュー、タブ、ボディ構成のサンプルです。  
-   ![wireframe010010](https://github.com/keita69/plantUML/blob/master/img/wireframe-hfmtb.png)
+   ![wireframe010.png](/img/010_wireframe/wireframe010.png)
 
 ## 020 ユースケース図
 
