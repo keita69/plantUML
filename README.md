@@ -1,2 +1,2 @@
 # 使い方やサンプルはwikiを参照
-[wiki]
+https://github.com/keita69/plantUML/wiki
