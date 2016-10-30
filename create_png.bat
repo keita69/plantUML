@@ -12,6 +12,5 @@ rem
 rem -------------------------------------------------------
 set SRC_DIR=puml
 
-%~d0
-cd %~d0%~p0
+cd /d %~dp0
 "%JAVA_HOME%"\bin\java -jar %PLANTUML_HOME%\plantuml.jar %SRC_DIR%\**
